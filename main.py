@@ -2,6 +2,7 @@ import requests
 import time
 from flask import Flask
 from threading import Thread
+from webserver import keep_alive
 
 app = Flask('')
 
@@ -59,3 +60,5 @@ if __name__ == "__main__":
             print("No URL found in the file.")
 
         time.sleep(60)
+
+keep_alive()
