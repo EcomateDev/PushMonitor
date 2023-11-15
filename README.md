@@ -19,7 +19,7 @@ PushMonitor uses an eco system, see below for how it works
 3. Enter the link https://github.com/EcomateDev/PushMonitor
 4. Click 'Import from GitHub' and wait for it to download
 5. Open url.txt and enter the url to the page you want to fluff (e.g. it could be the bot launch page).
-6. Open time.txt and write a number in minutes (in how many minutes your url will be fluffed).
+6. Open time.txt and write a number in minutes (in how many minutes your url will be pushed)
 7. Run the code and ideally if you have done everything right you will start loading the libraries (this may take some time, just wait).
 8. After installation you will automatically start WebView and console with information, you should have something like this:
 ![Снимок экрана 2023-11-15 135537](https://github.com/EcomateDev/PushMonitor/assets/144458220/f5a4bf04-55ff-4204-b80a-af617301b88f)
