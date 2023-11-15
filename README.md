@@ -14,7 +14,7 @@ PushMonitor uses an eco system, see below for how it works
 
 # Replit
 
-1. Go to replit.com
+1. Go to https://replit.com
 2. Click on Create Relp and select Import from github
 3. Enter the link https://github.com/EcomateDev/PushMonitor
 4. Click 'Import from GitHub' and wait for it to download
